@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nfcSpixrT57um3kdoVVb0AphzSytHKLyrvKq3XKzjSC2VdKbX040F/l3ZKlRa56yDEuk1yayzr6U5NpkjBUVIA==",
+  "dgSpecHash": "HbdIOyiaFylp7W339GyldLcDmUldXS84twSLDXRPViYztOa5dJJGtPsooXxw3PV+HwMTm+SFmylnQlx0epemGA==",
   "success": true,
-  "projectFilePath": "C:\\@Projetos\\@POC\\active-directory-aspnetcore-webapp-openidconnect-v2\\1-WebApp-OIDC\\1-5-B2C\\WebApp-OpenIDConnect-DotNet.csproj",
+  "projectFilePath": "C:\\@Projetos\\@POC\\@GITHUB\\B2C\\poc-adb2c\\1-5-B2C\\WebApp-OpenIDConnect-DotNet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edgard.sousa\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\edgard.sousa\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

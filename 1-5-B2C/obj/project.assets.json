@@ -5674,11 +5674,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\@Projetos\\@POC\\active-directory-aspnetcore-webapp-openidconnect-v2\\1-WebApp-OIDC\\1-5-B2C\\WebApp-OpenIDConnect-DotNet.csproj",
+      "projectUniqueName": "C:\\@Projetos\\@POC\\@GITHUB\\B2C\\poc-adb2c\\1-5-B2C\\WebApp-OpenIDConnect-DotNet.csproj",
       "projectName": "WebApp-OpenIDConnect-DotNet",
-      "projectPath": "C:\\@Projetos\\@POC\\active-directory-aspnetcore-webapp-openidconnect-v2\\1-WebApp-OIDC\\1-5-B2C\\WebApp-OpenIDConnect-DotNet.csproj",
+      "projectPath": "C:\\@Projetos\\@POC\\@GITHUB\\B2C\\poc-adb2c\\1-5-B2C\\WebApp-OpenIDConnect-DotNet.csproj",
       "packagesPath": "C:\\Users\\edgard.sousa\\.nuget\\packages\\",
-      "outputPath": "C:\\@Projetos\\@POC\\active-directory-aspnetcore-webapp-openidconnect-v2\\1-WebApp-OIDC\\1-5-B2C\\obj\\",
+      "outputPath": "C:\\@Projetos\\@POC\\@GITHUB\\B2C\\poc-adb2c\\1-5-B2C\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
